@@ -1,8 +1,7 @@
 # Courseera-course-module-2-assignment
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-link:https://chandramouli05.github.io/Courseera-course-module-2-assignment/
-
+link:https://github.com/Chandramouli05/Courseera-course-module-2-assignment/blob/0f97555c535940766183c9a56a845a26e24e882c/index.html
 Woo-hoo! You get to do some coding! Exciting!
 
 Time to complete: 1-2 hours. It may take you less time than that if you've absorbed the material in this module well.
